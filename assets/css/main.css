@@ -1051,3 +1051,26 @@
 		#header nav {
 			padding: 0 1em;
 		} }
+
+
+/*CUSTOM */
+
+.nav-a {
+	border-bottom: none;
+	padding: 2px;
+	display: inline;
+}
+
+.c-nav {
+	padding-top: 10px;
+}
+
+.shop-title {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #00b9f1;
+}
