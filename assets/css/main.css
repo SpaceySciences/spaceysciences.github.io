@@ -1074,3 +1074,19 @@ a:hover {
 	text-decoration: none;
 	color: #00b9f1;
 }
+
+h2 {
+    color: black;
+}
+
+label {
+    color: black;
+}
+
+.indicates-required {
+    color: black;
+}
+
+input {
+    color: black;
+}

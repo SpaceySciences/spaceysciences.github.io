@@ -16,8 +16,7 @@
 title: Scientific Space Systems
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Scientific Space Systems builds high qualty sensors for Spacecraft
-  and designs satellite systems.
+  High-Tech, Easy to use Digital Telescopes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ScientificSpaceSystems.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
