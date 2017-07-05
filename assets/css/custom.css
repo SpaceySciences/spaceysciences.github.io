@@ -2,13 +2,18 @@
 
 /*-------- NAV --------*/
 
-.navbar .navbar-fixed-top .navbar-inverse{
-    /*background: rgba(255, 255, 255, 0.3);*/
-    opacity: 0.6;
+.navbar-inverse {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.nav-container {
+  padding-top: 8px;
 }
 
 .nav-a {
-  text-decoration: none;
+  display: inline;
+  padding-right: 4px;
+  padding-left: 4px;
 }
 
 .navbar-right {
@@ -23,10 +28,14 @@
   padding: 0;
 }
 
-/* ------ carousel ----- */
+/* ------ main page------ */
 
 #myCarousel {
   /*padding-top: 50px;*/
+}
+
+.main-container {
+  padding-top: 30px;
 }
 
 /* ------ Overall Style ----- */
@@ -49,6 +58,7 @@ a {
   -webkit-transition: border-color 0.2s ease-in-out;
   -ms-transition: border-color 0.2s ease-in-out;
   transition: border-color 0.2s ease-in-out;
+  border-color: #9baec8;
   color: inherit;
   outline: 0;
   text-decoration: none;
@@ -76,6 +86,7 @@ body, input, select, textarea {
 	color: #d9e1e8;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15pt;
+  padding: 0px;
 	font-weight: 300 !important;
 	letter-spacing: 0.025em;
 	line-height: 1.75em;
