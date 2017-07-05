@@ -1,0 +1,100 @@
+/*CUSTOM CSS for the good lyfe*/
+
+/*-------- NAV --------*/
+
+.navbar .navbar-fixed-top .navbar-inverse{
+    /*background: rgba(255, 255, 255, 0.3);*/
+    opacity: 0.6;
+}
+
+.nav-a {
+  text-decoration: none;
+}
+
+.navbar-right {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-left {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------ carousel ----- */
+
+#myCarousel {
+  /*padding-top: 50px;*/
+}
+
+/* ------ Overall Style ----- */
+
+html {
+  background-color: #282c37;
+}
+
+p {
+  color: #d9e1e8;
+}
+
+a {
+  color: #2b90d9;
+
+}
+
+a {
+  -moz-transition: border-color 0.2s ease-in-out;
+  -webkit-transition: border-color 0.2s ease-in-out;
+  -ms-transition: border-color 0.2s ease-in-out;
+  transition: border-color 0.2s ease-in-out;
+  color: inherit;
+  outline: 0;
+  text-decoration: none;
+}
+
+a:hover {
+  border-color: transparent;
+  text-decoration: none;
+	color: #2b90d9;
+}
+
+h1, h2, h3 {
+  color: #d9e1e8
+}
+
+hr {
+  color: #2b90d9;
+}
+
+label {
+    color: #d9e1e8;
+}
+
+body, input, select, textarea {
+	color: #d9e1e8;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15pt;
+	font-weight: 300 !important;
+	letter-spacing: 0.025em;
+	line-height: 1.75em;
+}
+
+.icon {
+  text-decoration: none;
+  position: relative;
+}
+
+.icon:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
+}
+
+.icon > .label {
+  display: none;
+}
