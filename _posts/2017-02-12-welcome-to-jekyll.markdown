@@ -3,6 +3,7 @@ layout: post
 title:  "The Blog Is Here!"
 date:   2017-07-05 13:52:35 -0500
 categories: blog
+author: Caleb Adams
 ---
 
 That's right, Scientific Space Systems is starting a blog.
