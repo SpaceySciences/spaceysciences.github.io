@@ -30,12 +30,66 @@
 
 /* ------ main page------ */
 
+.footer-list {
+  list-style: none;
+}
+
+.footer-col {
+  padding: 0px;
+  margin: 0px;
+}
+
+.footer-row {
+  padding: 0px;
+  margin: 0px;
+}
+
+.foot-a {
+  font-size: 10pt;
+  color: #d9e1e8;
+  letter-spacing: 0.025em;
+  line-height: 1.3em;
+}
+
+.copyright {
+  font-size: 8pt;
+  color: #d9e1e8;
+}
+
+/* ------ main page------ */
+
 #myCarousel {
   /*padding-top: 50px;*/
 }
 
 .main-container {
   padding-top: 30px;
+}
+
+/* ------ contact page------ */
+
+.contact-container {
+  padding-top: 50px;
+  background-color: #282c37;
+}
+
+/* ------ signup page------ */
+
+#mc_embed_signup {
+  padding-top: 50px;
+  background: #282c37;
+  background-color: #282c37;
+}
+
+.indicates-required {
+  color: #d9e1e8;
+}
+
+/* ------ blog page------ */
+
+.post-excerpt {
+  font-size: 10pt !important;
+  color: #d9e1e8;
 }
 
 /* ------ Overall Style ----- */
@@ -46,10 +100,11 @@ html {
 
 p {
   color: #d9e1e8;
+  font-size: 14pt;
 }
 
 a {
-  color: #2b90d9;
+  color: #9baec8;
 
 }
 
@@ -59,7 +114,7 @@ a {
   -ms-transition: border-color 0.2s ease-in-out;
   transition: border-color 0.2s ease-in-out;
   border-color: #9baec8;
-  color: inherit;
+  color: #9baec8;
   outline: 0;
   text-decoration: none;
 }
@@ -71,7 +126,8 @@ a:hover {
 }
 
 h1, h2, h3 {
-  color: #d9e1e8
+  color: #d9e1e8;
+  text-align: center;
 }
 
 hr {
@@ -82,8 +138,22 @@ label {
     color: #d9e1e8;
 }
 
-body, input, select, textarea {
-	color: #d9e1e8;
+body {
+  background-color: #282c37 !important;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15pt;
+  padding: 0px;
+	font-weight: 300 !important;
+	letter-spacing: 0.025em;
+	line-height: 1.75em;
+}
+
+select {
+  color: #2b90d9;
+}
+
+input, textarea {
+  color: #d9e1e8;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15pt;
   padding: 0px;
