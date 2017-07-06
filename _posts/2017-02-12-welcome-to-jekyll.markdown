@@ -6,7 +6,7 @@ categories: blog
 author: Caleb Adams
 ---
 
-That's right, Scientific Space Systems is starting a blog.
+That's right, Scientific Space Systems is starting a blog... this will be edited soon and is not final... 
 
 
 

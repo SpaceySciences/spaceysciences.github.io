@@ -29,6 +29,22 @@
   padding: 0;
 }
 
+.nav-btn {
+  font-size: 12pt;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+  border: solid #024873 2px;
+  background-color: rgba(255, 0, 100, 0.3);
+}
+
+.nav-btn:hover {
+  background: #cccccc;
+  text-decoration: none;
+  background-color: rgba(255, 0, 100, 0.6);
+}
+
 /* ------ main page------ */
 
 .footer-list {
@@ -64,6 +80,11 @@
 }
 
 .main-container {
+  /*for the vapor*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   padding-top: 30px;
 }
 
