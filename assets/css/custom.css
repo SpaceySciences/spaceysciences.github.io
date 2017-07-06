@@ -50,6 +50,7 @@
 .footer-list {
   list-style: none;
   text-align: center;
+  padding: 0px;
 }
 
 .footer-col {
