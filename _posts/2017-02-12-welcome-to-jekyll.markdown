@@ -1,5 +1,17 @@
 ---
 layout: post
+title:  "The Blog Is Here!"
+date:   2017-07-05 13:52:35 -0500
+categories: blog
+author: Caleb Adams
+---
+
+That's right, Scientific Space Systems is starting a blog... this will be edited soon and is not final... 
+
+
+
+<!-- ---
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-02-12 13:52:35 -0500
 categories: jekyll update
@@ -22,4 +34,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->

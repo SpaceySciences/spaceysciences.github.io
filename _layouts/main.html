@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<!--
+	This is the main landing page of the website.
+-->
+<html>
+
+
+  {% include header.html %}
+  {% include nav.html %}
+
+  <body>
+    <!-- Full Page Image Background Carousel Header -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <!-- <li data-target="#myCarousel" data-slide-to="4"></li>
+            <li data-target="#myCarousel" data-slide-to="5"></li> -->
+        </ol>
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('../assets/css/images/temp_1.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Easy to Use - High Tech - Telescopes</h2><br>
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the second background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('../assets/css/images/temp_3.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 2</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('../assets/css/images/temp_2.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 3</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('../assets/css/images/temp_4.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 4</h2> -->
+                </div>
+            </div>
+            <!--div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <!--div class="fill" style="background-image:url('../assets/css/images/temp5.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 5</h2> -->
+                <!--/div>
+            </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <!--div class="fill" style="background-image:url('../assets/css/images/temp6.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 6</h2> -->
+                <!--/div>
+            </div-->
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+
+    </header>
+
+    <!-- Page Content -->
+
+    <div class="container main-container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Scientific Space Systems</h1>
+                <p>Scientific Space Systems is a startup space company dedicated to bringing space closer to the public. Scientific Space Systems was formed in 2017 with the goal of building high-tech and easy to use telescopes for popular astronomical purposes. Scientific Space Systems's Telescopes (Formerly Spacey Telescopes) have already won several awards and have been featured on <a href="http://www.hypepotamus.com/people/caleb-adams/" target="_blank">Atlanta Tech Spotlights</a>, <a href="http://uga.edu/about_uga/profile/looking-to-space/" target="_blank"> The University of Georgia </a>, <a href="https://soundcloud.com/onsecondthought/full-show-january-4-2016#t=18:06" target="_blank">NPR Radio Broadcast</a>, <a href="https://www.youtube.com/watch?v=QMqSRc3Ei2I" target="_blank">TEDx Talk</a>, <a href="http://news.mlh.io/winners-mlh-spring-2015-north-america-season-hackathons-08-16-2015" target="_blank">Major League Hacking</a>, and more.</p>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+  </body>
+
+  {% include footer.html %}
+
+  <!-- jQuery -->
+  <script src="../assets/js/jquery.js"></script>
+
+  <!-- Bootstrap Core JavaScript -->
+  <script src="../assets/js/bootstrap.min.js"></script>
+
+  <!-- Script to Activate the Carousel -->
+  <script>
+  $('.carousel').carousel({
+      interval: 5000 //changes the speed
+  })
+  </script>
+
+
+
+</html>
