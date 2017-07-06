@@ -63,6 +63,16 @@
   margin: 0px;
 }
 
+.footer-container {
+  width: 100%;
+  background-color: #20232c;
+  /*position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;*/
+  padding: 1rem;
+}
+
 .foot-a {
   font-size: 10pt;
   color: #d9e1e8;
@@ -86,7 +96,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
+  padding-bottom: 50px;
   padding-top: 50px;
 }
 
