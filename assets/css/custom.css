@@ -201,3 +201,7 @@ input, textarea {
 .icon > .label {
   display: none;
 }
+
+.page-top {
+  padding-top: 55px;
+}
