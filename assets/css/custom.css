@@ -240,15 +240,9 @@
   color: #d9e1e8;
 }
 
-@font-face {
-  font-family: neon;
-  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
-}
-
 .neon {
-  font-family: neon;
   color: #FF6AD5;
-  font-size: 14pt;
+  font-size: 8pt;
   text-shadow: 0 0 3vw #C774E8;
 }
 
