@@ -14,7 +14,9 @@ Now with the name of the telescope. We are calling it the SpaceyScope! If any of
 <p align="center">
 <img src="{{ base }}/assets/css/images/2015.jpg" width="300" />    
 <img src="{{ base }}/assets/css/images/2016.png" width="300"/>     
-<img src="{{ base }}/assets/css/images/Promo1.png" width="300" /></p>
+<img src="{{ base }}/assets/css/images/Promo1.png" width="300" />
+</p>
+
 <!-- ---
 layout: post
 title:  "Welcome to Jekyll!"

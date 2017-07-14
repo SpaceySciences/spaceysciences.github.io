@@ -458,6 +458,21 @@
   color: #d9e1e8;
 }
 
+.post-meta {
+  font-size: 15pt !important;
+  color: #d9e1e8;
+}
+
+.post-content {
+  font-size: 11pt !important;
+  color: #d9e1e8;
+}
+
+.post-content p {
+  font-size: 11pt !important;
+  color: #d9e1e8;
+}
+
 /* ------ Overall Style ----- */
 
 html {
