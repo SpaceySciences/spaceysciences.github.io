@@ -278,6 +278,14 @@
   padding-top: 50px;
 }
 
+.rcorners {
+  border-radius: 5px;
+  border: 2px solid #FF6AD5;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
 .carousel-indicators li {
   color: #FF6AD5 !important;
   border-color: #FF6AD5 !important;
