@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Alpha Product Launch!!
+title:  "Alpha Product Launch!!"
 date:   2017-07-14 13:52:35 -0500
 categories: blog
 author: Hollis Neel
@@ -8,7 +8,7 @@ author: Hollis Neel
 
 It has been an incredible journey so far. What started two years  ago has finally culminated to a product that we are confident to sell. We are so excited to give you guys a product we are confident will surpass expectations.
 
-My name is Hollis Neel (legally Nicholas Neel) and I get to work on the electronics for the telescope. The electronics have gone through a lot of changes over the past years. At the start, Caleb Adams and a few of his friends won a hackathon with a remote operated telescope. It started as a simple Raspberry Pi project. Since then we have updated our motor drivers, control algorithms, added feedback systems, and revolutionized how the telescope operates. Previously everything was done through a website. Now we are creating a really great phone app that will go with our telescope. This will make it much easier to use. 
+My name is Hollis Neel (legally Nicholas Neel) and I get to work on the electronics for the telescope. The electronics have gone through a lot of changes over the past years. At the start, Caleb Adams and a few of his friends won a hackathon with a remote operated telescope. It started as a simple Raspberry Pi project. Since then we have updated our motor drivers, control algorithms, added feedback systems, and revolutionized how the telescope operates. Previously everything was done through a website. Now we are creating a really great phone app that will go with our telescope. This will make it much easier to use.
 
 Now with the name of the telescope. We are calling it the SpaceyScope! If any of you have been keeping track of our progress, our companies name used to be Spacey Sciences. We have come a long ways since then! Caleb, Graham, and I temporarily put aside our business venture to create and found the University of Georgia Small Satellite Research Laboratory. While working on the [University of Georgia's SPOC and MOCI missions](http://www.smallsat.uga.edu/), we have worked alongside both the Air Force Research Laboratory and NASA to create satellites. Now with our experience and aspirations to bring space to as many people as possible, we founded Scientific Space Systems. We hope that you will join us on this venture and reach out to us! We absolutely love hearing from space enthusiasts and finding ways to bring you closer to space!
 <p align="center"><img src="https://github.com/SpaceySciences/spaceysciences.github.io/blob/master/assets/css/images/2015.jpg" width="300" height="150" />     <img src="https://github.com/SpaceySciences/spaceysciences.github.io/blob/master/assets/css/images/2016.png" width="150" height="150" />     <img src="https://github.com/SpaceySciences/spaceysciences.github.io/blob/master/assets/css/images/Promo1.png" width="300" height="150" /></p>
